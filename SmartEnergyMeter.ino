@@ -15,7 +15,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 // ===== CURRENT SENSOR =====
 EnergyMonitor emonCurrent;
-const double I_CALIB = 60.6;   // SCT-013 30A এর জন্য
+const double I_CALIB = 60.6;  
 double zeroOffset = 0;
 
 // ===== RELAY & SWITCH =====
