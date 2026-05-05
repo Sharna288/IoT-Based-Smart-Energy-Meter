@@ -29,6 +29,8 @@ An advanced energy monitoring and management system built with **NodeMCU ESP8266
 <img width="1080" height="2400" alt="Screenshot_2026-05-04-11-33-19-613_cloud blynk" src="https://github.com/user-attachments/assets/b521ac30-c102-4553-b7ce-18c597ef74c9" />
 <img width="1080" height="2400" alt="Screenshot_2026-05-04-11-14-22-061_cloud blynk" src="https://github.com/user-attachments/assets/006310b5-b263-4dd3-89fc-b4b72ed6ce50" />
 <img width="1080" height="2400" alt="Screenshot_2026-05-04-11-13-43-492_cloud blynk" src="https://github.com/user-attachments/assets/959966ae-ffb8-4847-9e9a-72cc650de7f9" />
+<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/7671cfa7-f0ff-4f39-ae0b-f722b82221f1" />
+<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/ee6a6c51-3f2d-4c05-bb53-c26210f6a3bb" />
 
 
 
